@@ -26,7 +26,7 @@ This repository organizes the Live SOC + Honeynet lab for Azure Sentinel describ
 <img width="600" height="513" alt="image" src="https://github.com/user-attachments/assets/6d4d0b61-77f7-4f71-9d28-f5b704ae2f1b" />
 
 ### Incident Report
-<img width="700" height="723" alt="image" src="https://github.com/user-attachments/assets/b0b27bf1-0f8b-4c7a-86ba-78a704a3cae2" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/b0b27bf1-0f8b-4c7a-86ba-78a704a3cae2" />
 
 
 ### Quickstart (local)

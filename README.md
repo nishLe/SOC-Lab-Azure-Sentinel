@@ -1,5 +1,6 @@
 # SOC-Lab-Azure-Sentinel
 
+<img width="858" height="507" alt="honeynet diagram" src="https://github.com/user-attachments/assets/42c31e1c-55ae-41b2-b332-50818d694ca5" />
 
 ## Live SOC + Honeynet (Azure) — Lab Repository
 

@@ -15,12 +15,15 @@ This repository organizes the Live SOC + Honeynet lab for Azure Sentinel describ
 
 
 ### Repo Contents
-- `docs/` — step-by-step lab phases and operational runbook
-- `KQL/` — queries used in workbooks and analytics rules
-- `workbooks/` — JSON definitions of map visualizations
-- `analytics-rules/` — sample detection rule JSON for import into Sentinel
-- `scripts/` — automation snippets for auditing, DCRs, and log generation
-- `playbooks/` — sample Logic App playbooks to trigger on incidents
+- `docs` — step-by-step lab phases and operational runbook
+- `KQL` — queries used in workbooks and analytics rules
+- `workbooks` — JSON definitions of map visualizations
+- `analytics-rules` — sample detection rule JSON for import into Sentinel
+- `scripts` — automation snippets for auditing, DCRs, and log generation
+- `playbooks` — sample Logic App playbooks to trigger on incidents
+  
+### Example Attack Map for Windows RDP Authentication Failed 
+<img width="900" height="513" alt="image" src="https://github.com/user-attachments/assets/6d4d0b61-77f7-4f71-9d28-f5b704ae2f1b" />
 
 
 ### Quickstart (local)
